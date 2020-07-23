@@ -1,6 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
 ### I'm Eduardo (He/Him)
+
+![octocat](https://user-images.githubusercontent.com/56360157/88322869-930b0380-ccde-11ea-9854-0f06b8b8cea9.png)
 
 
 <!--
