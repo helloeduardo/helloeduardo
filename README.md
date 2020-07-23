@@ -2,8 +2,7 @@
 
 ### I'm Eduardo (He/Him)
 
-![octocat](https://user-images.githubusercontent.com/56360157/88322869-930b0380-ccde-11ea-9854-0f06b8b8cea9.png)
-<img src="https://user-images.githubusercontent.com/56360157/88322869-930b0380-ccde-11ea-9854-0f06b8b8cea9.png" width=200 align=right>
+<img src="https://user-images.githubusercontent.com/56360157/88322869-930b0380-ccde-11ea-9854-0f06b8b8cea9.png" width=200 align=left>
 
 
 
@@ -20,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![octocat](https://user-images.githubusercontent.com/56360157/88322869-930b0380-ccde-11ea-9854-0f06b8b8cea9.png)
+
 -->
