@@ -3,12 +3,22 @@
 ###### Pronouns: He/Him
 
 ### Currently:
-👨🏻‍💻 Studying backend engineering at [Turing School of Software and Design](https://turing.io/)
+👨🏻‍💻 Studying back-end engineering at [Turing School of Software and Design](https://turing.io/) 🌱
 
 ### Previously:
 💻 Technology Specialist\
 🎓 Higher Education Professional\
 🌈 Diversity & Inclusion Practioner
+
+![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=helloeduardo&show_icons=true&theme=buefy&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloeduardo&show_icons=true&theme=buefy&layout=compact&langs_count=4)
+
+<h3  align="center">📫 Let's get in touch!</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/eduardo--parra/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:h.eduardoparra@gmail.com?subject=Hello%20Eduardo,%20From%20Github"><img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 <!--
