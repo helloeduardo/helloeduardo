@@ -8,7 +8,7 @@
 ### Previously:
 💻 Technology Specialist\
 🎓 Higher Education Professional\
-🌈 Diversity & Inclusion Practioner\
+🌈 Diversity & Inclusion Practioner
 
 
 <!--
