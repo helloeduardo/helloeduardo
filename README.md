@@ -3,14 +3,16 @@
 ###### Pronouns: He/Him
 
 ### Currently:
-👨🏻‍💻 Studying back-end engineering at [Turing School of Software and Design](https://turing.io/) 🌱
+👨🏻‍💻 Software Engineer @ Ellevation Education\
+🌱 Learning React & Python
 
 ### Previously:
+🎓 Back-end Engineering Alum from [Turing School of Software and Design](https://turing.io/)\
 💻 Technology Specialist\
-🎓 Higher Education Professional\
+📚 Higher Education Professional\
 🌈 Diversity & Inclusion Practioner
 
-![Eduardo's Github Stats](https://github-readme-stats.vercel.app/api?username=helloeduardo&show_icons=true&theme=buefy&hide=stars&custom_title=Eduardo's%20GitHub%20Stats)
+![Eduardo's Github Stats](https://github-readme-stats.vercel.app/api?username=helloeduardo&show_icons=true&theme=buefy&hide=stars&include_all_commits=true&count_private=true&custom_title=Eduardo's%20GitHub%20Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloeduardo&show_icons=true&theme=buefy&layout=compact&langs_count=4)
 
